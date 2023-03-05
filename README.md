@@ -11,6 +11,7 @@ You can try website [here!](http://ozgun-jamming.surge.sh/)
 * CSS
 * JavaScript
 * React
+* API
 
 ## Screenshots
 ### Main Screen
